@@ -1,4 +1,4 @@
-# Project_Pack_TI
+# Pack TI
 
 
 The script that is a Swiss army knife for computer technicians and enthusiasts, facilitating all management, maintenance, activation and cleaning of Windows OS and Microsoft Office suites.
