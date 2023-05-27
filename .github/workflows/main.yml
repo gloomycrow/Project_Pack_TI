@@ -1,0 +1,19 @@
+name: Pageviews
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  pageviews:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Update pageviews
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: '<!--count:{"title": "Page views", "url": "https://github.com/gloomycrow/Project_Pack_TI"}-->'
