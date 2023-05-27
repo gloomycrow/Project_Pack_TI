@@ -10,7 +10,7 @@ There is no need for prior knowledge to use it, it is only necessary to run the 
 
 project links:
 
-<a href="/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Sintaxe básica de gravação e formatação no GitHub</a>
+<a href="https://t.me/gruposcriptaio">Grupo de Suporte</a>
 
 Group: https://t.me/gruposcriptaio
 
