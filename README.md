@@ -11,4 +11,5 @@ There is no need for prior knowledge to use it, it is only necessary to run the 
 project links:
 
 Group: https://t.me/gruposcriptaio
+
 Channel: https://t.me/scriptaio
