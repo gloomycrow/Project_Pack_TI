@@ -10,8 +10,7 @@ There is no need for prior knowledge to use it, it is only necessary to run the 
 
 project links:
 
+
 <a href="https://t.me/gruposcriptaio">Grupo de Suporte</a>
 
-Group: https://t.me/gruposcriptaio
-
-Channel: https://t.me/scriptaio
+<a href="https://t.me/scriptaio">Canal de atualizações</a>
