@@ -9,7 +9,7 @@ There is no need for prior knowledge to use it, it is only necessary to run the 
     The script works on all Windows Systems (tested from Windows XP) and activation for all Office packages available on the market.
 
 
-#Project links:
+# Project links:
 
 
 <a href="https://t.me/gruposcriptaio">Grupo de Suporte</a>
