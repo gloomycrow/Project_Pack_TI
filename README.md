@@ -10,8 +10,8 @@ There is no need for prior knowledge to use it, it is only necessary to run the 
 
 ##
 # Project links:
-##### <a href="https://t.me/gruposcriptaio">Grupo de Suporte</a>
-##### <a href="https://t.me/scriptaio">Canal de atualizações</a>
+##### <a href="https://t.me/gruposcriptaio">Support group</a>
+##### <a href="https://t.me/scriptaio">Updates channel</a>
 
 
 <!--count:{"title": "Page views", "url": "https://github.com/gloomycrow/Project_Pack_TI"}-->
